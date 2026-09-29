@@ -1,0 +1,12 @@
+body {
+    background-color: azure;
+}
+
+/* Redefinir etiquetas */
+h1 {
+    color: darkred;
+}
+
+p {
+    color: darkblue;
+}
