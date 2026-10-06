@@ -1,0 +1,50 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    font-family: "Courier New", monospace;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 2px solid white;
+    color: white;
+    text-align: center;
+    font-family: "Courier New", monospace;
+}
+
+.paragraf1 {
+    display: grid;
+    grid-template-columns: 200px auto;
+    align-items: center;
+    color: blue;
+    font-family: Arial, sans-serif;
+}
+
+.paragraf2 {
+    display: grid;
+    grid-template-columns: 100px auto;
+    align-items: center;
+    color: red;
+    font-family: Georgia, serif;
+}
+.paragraf {
+    justify-self: start;
+    color: white;
+    background-color: black;
+    font-family: Verdana, sans-serif;
+    padding: 2px 6px;
+}
+
+.paragraf4 {
+    justify-self: start;
+    color: black;
+    background-color: yellow;
+    border: 1px solid black;
+    font-family: "Courier New", monospace;
+    padding: 1px 4px;
+}
