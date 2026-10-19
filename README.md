@@ -12,3 +12,9 @@
 - [HTML - El Quijote](quijote/elquijote.html)
 - [CSS - El Quijote](quijote/style.css)
 - [Text - El Quijote](quijote/elquijote.txt)
+
+## Activtat 2 LListes
+- [HTML - Activitat2LlistesA1](AEA1-Llistes/activitat1/activitat1Llistes.html)
+- [CSS - Activitat2LlistesA1](AEA1-Llistes/activitat1/activitat1Llistes.css)
+- [HTML - Activitat2LlistesA2](AEA1-Llistes/activitat2/activitat2Llistes.html)
+- [CSS - Activitat2LlistesA2](AEA1-Llistes/activitat2/activitat2Llistes.css)
