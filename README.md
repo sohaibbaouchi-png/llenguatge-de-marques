@@ -20,5 +20,5 @@
 - [CSS - Activitat2LlistesA2](AEA1-Llistes/activitat2/activitat2Llistes.css)
 
 ## Activitats d'enllaços
-- [HTML - peli.html](AEA1-Enllaços-Activitat/peli.html)
-- [CSS - estils.css](AEA1-Enllaços-Activitat/estils.css)
+- [HTML - peli.html](AEA1-Enllaços-Activitat2/peli.html)
+- [CSS - estils.css](AEA1-Enllaços-Activitat2/estils.css)
